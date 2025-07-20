@@ -1,6 +1,5 @@
 import java.util.LinkedList;
 import java.util.Queue;
-
 public class Laboratorio {
     public static void main (String [] args){
         Queue<String> pedidos = new LinkedList<>();
